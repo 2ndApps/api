@@ -1,0 +1,13 @@
+### Go ###
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+### Databases ###
+*.db
+
+### Dev ###
+*.vscode
